@@ -1,0 +1,1 @@
+ArduCopter.exe --model quad --home -35.363261,149.165230,584,353 --serial0 tcp:0.0.0.0:5760 --serial1 udpclient:127.0.0.1:14550
